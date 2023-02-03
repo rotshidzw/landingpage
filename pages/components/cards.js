@@ -24,7 +24,7 @@ const cards = () => {
        </Image></p>
         <p className="text-gray-600 text-xl  pb-6   font-medium">Tons of natural light</p>
         <p className="text-lg font-medium  pb-6 text-gray-900">3 bed/ 2 bath - $425,000</p>
-        <p className="text-gray-600 text-md font-medium  ">Elegant, modern home near Central Park! It's everything you’ve dreamed your new home could be.</p>
+        <p className="text-gray-600 text-md font-medium  ">Elegant, modern home near Central Park! It is everything you have dreamed your new home could be.</p>
         <button className="mt-4 text-indigo-500 text-md font-medium bg-white py-2 px-4 rounded">Learn More</button>
       </motion.div>
     </div>
@@ -42,7 +42,7 @@ const cards = () => {
        </Image></p>
         <p className="text-gray-600 text-xl  pb-6   font-medium">Tons of natural light</p>
         <p className="text-lg font-medium  pb-6 text-gray-900">3 bed/ 2 bath - $425,000</p>
-        <p className="text-gray-600 text-md font-medium">Elegant, modern home near Central Park! It's everything you’ve dreamed your new home could be.</p>
+        <p className="text-gray-600 text-md font-medium">Elegant, modern home near Central Park! It is everything you have dreamed your new home could be.</p>
         <button className="mt-4 text-indigo-500 text-md font-medium bg-white py-2 px-4 rounded">Learn More</button>
       </motion.div>
     </div>
@@ -60,7 +60,7 @@ const cards = () => {
        </Image></p>
         <p className="text-gray-600 text-xl  pb-6   font-medium">Tons of natural light</p>
         <p className="text-lg font-medium  pb-6 text-gray-900">3 bed/ 2 bath - $425,000</p>
-        <p className="text-gray-600 text-md font-medium">Elegant, modern home near Central Park! It's everything you’ve dreamed your new home could be.</p>
+        <p className="text-gray-600 text-md font-medium">Elegant, modern home near Central Park! It is everything you have dreamed your new home could be.</p>
         <button className="mt-4 text-indigo-500 bg-white text-md font-medium py-2 px-4 rounded">Learn More</button>
       </motion.div>
     </div>
