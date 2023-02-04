@@ -5,7 +5,7 @@ const about = () => {
   return (
    <>  
        <div className="bg-white border border-gray-400 p-6 text-center">
-       <div className="px-8 py-5 lg:px-[250px]">
+       <div className="px-4 py-5 lg:px-[290px]">
       <p className='flex items-center justify-center mb-8 pt-8 md:px-16'> <Image
       src={Me}
       alt="Picture of the author"
