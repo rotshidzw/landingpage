@@ -14,7 +14,7 @@ const cards = () => {
       <motion.div className="bg-white  p-6"  
   whileHover={{ scale: 1.2 }}
   whileTap={{ scale: 0.8 }}
-  style={{ x: 100 }}>
+>
       <p className='flex items-center justify-center mb-8 pt-8'> <Image
       src={Card}
       alt="Picture of the author"
@@ -32,7 +32,7 @@ const cards = () => {
       <motion.div className="bg-white  p-6"
         whileHover={{ scale: 1.2 }}
   whileTap={{ scale: 0.8 }}
-  style={{ x: 100 }}>
+>
       <p className='flex items-center justify-center mb-8 pt-8'> <Image
       src={Card}
       alt="Picture of the author"
@@ -50,7 +50,7 @@ const cards = () => {
       <motion.div className="bg-white  p-6"
        whileHover={{ scale: 1.2 }}
   whileTap={{ scale: 0.8 }}
-  style={{ x: 100 }} >
+   >
       <p className='flex items-center justify-center mb-8 pt-8'> <Image
       src={Card}
       alt="Picture of the author"
