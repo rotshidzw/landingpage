@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## GO LIVE 
 [https://gregarious-dragon-a4fbcc.netlify.app/]
 ## Getting Started   
+![image](https://github.com/rotshidzw/landingpage/assets/69056906/ec4449a8-2a49-4698-b010-d80d8be0865c)
+
 First, run the development server:
 
 ```bash
